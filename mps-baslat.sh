@@ -1,7 +1,7 @@
 #!/bin/sh
 TEXTDOMAINDIR=/usr/share/locale
-TEXTDOMAIN=pacmind
-img=./pacmind.png
+TEXTDOMAIN=mps-gtk
+img=/usr/share/icons/mps-gtk.png
 
 XTERM="xterm"
 #which lxterminal && XTERM="lxterminal"
