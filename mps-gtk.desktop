@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=0.1
+Name=Mps-Program Ekle Kaldır
+Comment=
+Exec=/usr/bin/mps-gtk
+Icon=/usr/share/pixmaps/mps-gtk.svg
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Categories=System;Application;
+Name[tr_TR]=Mps-Program Ekle Kaldır
