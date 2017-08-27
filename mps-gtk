@@ -5,7 +5,7 @@ TEXTDOMAIN=mps-gtk
 # path mps-baslat.sh
 path=./
 
-IMMAGINE=./mps-gtk.png
+IMMAGINE=/usr/share/icons/mps-gtk.png
 
 UPDATE="$path/mps-baslat.sh 1"
 UPGRADE="$path/mps-baslat.sh 2"
