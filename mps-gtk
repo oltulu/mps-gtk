@@ -3,7 +3,7 @@ TEXTDOMAINDIR=./
 TEXTDOMAIN=mps-gtk
 
 # path mps-baslat.sh
-path=./
+path=/usr/bin/
 
 IMMAGINE=/usr/share/icons/mps-gtk.png
 
