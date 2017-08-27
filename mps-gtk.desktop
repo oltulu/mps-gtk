@@ -8,5 +8,5 @@ Icon=/usr/share/pixmaps/mps-gtk.svg
 Terminal=false
 X-MultipleArgs=false
 Type=Application
-Categories=System;Application;
+Categories=System;Application;Utility;
 Name[tr_TR]=Mps-Program Ekle Kaldır
